@@ -37,7 +37,7 @@
       <SellerAddr>广州市XXXXXXXXXXXXXXX</SellerAddr>
       <SellerTelNum>22813685</SellerTelNum>
       <SellerBankName>招商银行股份有限公司广州XX支行</SellerBankName>
-      <SellerBankAccNum>201181403810001</SellerBankAccNum>
+      <SellerBankAccNum>012345678901234</SellerBankAccNum>
     </SellerInformation>
     <BuyerInformation>
       <BuyerIdNum>012345678901234567</BuyerIdNum>
@@ -60,7 +60,7 @@
       <TaxRate>0.01</TaxRate>
       <ComTaxAm>158.42</ComTaxAm>
       <TotaltaxIncludedAmount>16000.00</TotaltaxIncludedAmount>
-      <TaxClassificationCode>3040203000000000000</TaxClassificationCode>
+      <TaxClassificationCode>0000000000000000000</TaxClassificationCode>
     </IssuItemInformation>
     <SpecificInformation/>
     <AdditionalInformation/>
@@ -69,9 +69,9 @@
     <AuthenticationMethods>01</AuthenticationMethods>
   </SellerAuthentication>
   <TaxSupervisionInfo>
-    <InvoiceNumber>24442000000036916313</InvoiceNumber>
+    <InvoiceNumber>01234567890123456789</InvoiceNumber>
     <IssueTime>2024-01-24</IssueTime>
-    <TaxBureauCode>14400000000</TaxBureauCode>
+    <TaxBureauCode>01234567890</TaxBureauCode>
     <TaxBureauName>国家税务总局广东省税务局</TaxBureauName>
   </TaxSupervisionInfo>
   <TaxBureauSignature>
